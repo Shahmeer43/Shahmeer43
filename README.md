@@ -1,0 +1,4 @@
+- Hi, I’m Shahmeer.
+- I’m interested in game and web development.
+- I’m currently learning both game and web development.
+- Reach me at my personal email shahmeerhameed59@gmail.com.
